@@ -2,7 +2,7 @@
 Alunos: Lucas Azevedo e João Ântonio
 Professora:Gláucya Boechat
 Disciplina:Programação Web
-Funcionamento: Quando o usuário entrar no site ele ira se deparar com o menu, onde ele vai poder escolher dentre as opções disponíveis para acessar. Onde ele ira inserir os dados pedidos para poder dar continuidade.
+Funcionamento: Quando o usuário entrar no site ele ira se deparar com o menu, onde ele vai poder escolher dentre as opções disponíveis para acessar. ao inserir os dados pedidos o usuário vai voltar para o menu.
 
 
 
